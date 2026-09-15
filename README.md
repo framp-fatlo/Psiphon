@@ -218,4 +218,4 @@ Psiphon is offered as a complete free version, with all features and updates inc
 Unlock your internet freedom today! Download Psiphon now and experience a world without boundaries.
 
 ---
-**Last updated:** 2026-09-15 17:34:40 UTC
+**Last updated:** 2026-09-15 21:03:36 UTC
